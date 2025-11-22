@@ -32,6 +32,7 @@ The experiment utilized a **Parallel Plate Avalanche Counter (PPAC)** to detect 
 The detector was designed to operate at low gas pressures (~10 Torr) using Isobutane. It utilized a "transmission" geometry, allowing high-energy ions to pass through while generating a signal.
 
 ![Schematic of PPAC](./ppac_schematic.png)
+
 *Figure 1: Cross-sectional schematic of the detector designed for this project. Note the Anode (A) sandwiched between two Cathodes (C). The bottom cathode features 2.5 mm segmented strips for position-sensitive detection.*
 
 **Key Design Specifications:**
